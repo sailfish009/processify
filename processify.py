@@ -1,3 +1,6 @@
+# Marc Schlaich
+# https://gist.github.com/schlamar/2311116
+
 import os
 import sys
 import traceback
